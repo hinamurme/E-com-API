@@ -318,5 +318,21 @@
     "new_price": 50,
     "old_price": 80.5,
     "id": 41
+    
+  },
+  {
+    "name": "Banner",
+    "category": "women",
+    "image": "/images/banner_women.png"  
+  },
+  {
+    "name": "Banner",
+    "category": "kids",
+    "image": "/images/banner_kids.png"  
+  },
+  {
+    "name": "Banner",
+    "category": "man",
+    "image": "/images/banner_mens.png"  
   }
 ]
